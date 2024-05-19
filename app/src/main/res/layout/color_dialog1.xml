@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:gravity="center"
+        android:paddingTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#000000"
+            app:backgroundTint="@color/black" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#212121"
+            app:backgroundTint="#212121" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#424242"
+            app:backgroundTint="#424242" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#5e5e5e"
+            app:backgroundTint="#5E5E5E" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#797979"
+            app:backgroundTint="#797979" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#919191"
+            app:backgroundTint="#919191" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#929292"
+            app:backgroundTint="#929292" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#a9a9a9"
+            app:backgroundTint="#A9A9A9" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#c0c0c0"
+            app:backgroundTint="#C0C0C0" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#d6d6d6"
+            app:backgroundTint="#D6D6D6" />
+
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ebebeb"
+            app:backgroundTint="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ffffff"
+            app:backgroundTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#941100"
+            app:backgroundTint="#941100" />
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#945200"
+            app:backgroundTint="#945200" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#929000"
+            app:backgroundTint="#929000" />
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#4f8f00"
+            app:backgroundTint="#4F8F00" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#008f00"
+            app:backgroundTint="#008F00" />
+
+        <Button
+            android:id="@+id/button18"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#009051"
+            app:backgroundTint="#009051" />
+
+        <Button
+            android:id="@+id/button19"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#009193"
+            app:backgroundTint="#009193" />
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#005493"
+            app:backgroundTint="#005493" />
+
+        <Button
+            android:id="@+id/button21"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#011993"
+            app:backgroundTint="#011993" />
+
+        <Button
+            android:id="@+id/button22"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#531b93"
+            app:backgroundTint="#531B93" />
+
+        <Button
+            android:id="@+id/button23"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#942193"
+            app:backgroundTint="#942193" />
+
+        <Button
+            android:id="@+id/button24"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#941751"
+            app:backgroundTint="#941751" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/button25"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff2600"
+            app:backgroundTint="#FF2600" />
+
+        <Button
+            android:id="@+id/button26"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff9300"
+            app:backgroundTint="#FF9300" />
+
+        <Button
+            android:id="@+id/button27"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#fffb00"
+            app:backgroundTint="#FFFB00" />
+
+        <Button
+            android:id="@+id/button28"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#8efa00"
+            app:backgroundTint="#8EFA00" />
+
+        <Button
+            android:id="@+id/button29"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#00f900"
+            app:backgroundTint="#00F900" />
+
+        <Button
+            android:id="@+id/button30"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#00fa92"
+            app:backgroundTint="#00FA92" />
+
+        <Button
+            android:id="@+id/button31"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#00fdff"
+            app:backgroundTint="#00FDFF" />
+
+        <Button
+            android:id="@+id/button32"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#0096ff"
+            app:backgroundTint="#0096FF" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/button33"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#0433ff"
+            app:backgroundTint="#0433FF" />
+
+        <Button
+            android:id="@+id/button34"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#9437ff"
+            app:backgroundTint="#9437FF" />
+
+        <Button
+            android:id="@+id/button35"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff40ff"
+            app:backgroundTint="#FF40FF" />
+
+        <Button
+            android:id="@+id/button36"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff2f92"
+            app:backgroundTint="#FF2F92" />
+
+        <Button
+            android:id="@+id/button37"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff7e79"
+            app:backgroundTint="#FF7E79" />
+
+        <Button
+            android:id="@+id/button38"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ffd479"
+            app:backgroundTint="#FFD479" />
+
+        <Button
+            android:id="@+id/button39"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#fffc79"
+            app:backgroundTint="#FFFC79" />
+
+        <Button
+            android:id="@+id/button40"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#d4fb79"
+            app:backgroundTint="#D4FB79" />
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:paddingBottom="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/button41"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#73fa79"
+            app:backgroundTint="#73FA79" />
+
+        <Button
+            android:id="@+id/button42"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#73fcd6"
+            app:backgroundTint="#73FCD6" />
+
+        <Button
+            android:id="@+id/button43"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#73fdff"
+            app:backgroundTint="#73FDFF" />
+
+        <Button
+            android:id="@+id/button44"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#76d6ff"
+            app:backgroundTint="#76D6FF" />
+
+        <Button
+            android:id="@+id/button45"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#7a81ff"
+            app:backgroundTint="#7A81FF" />
+
+        <Button
+            android:id="@+id/button46"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#d783ff"
+            app:backgroundTint="#D783FF" />
+
+        <Button
+            android:id="@+id/button47"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff85ff"
+            app:backgroundTint="#FF85FF" />
+
+        <Button
+            android:id="@+id/button48"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="#ff8ad8"
+            app:backgroundTint="#FF8AD8" />
+
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/generateColorId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+
+        android:text="Generate Color " />
+
+
+</LinearLayout>
